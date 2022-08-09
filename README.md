@@ -13,7 +13,8 @@ Hello
 [link](https://youtu.be/jSp0HPdj7vk)
 
 
-| Barca | vs | Pumas |  
+| Barca | vs | Pumas |
+| --- | --- | --- |
 | 6     |  :  |  0  |
   
   
